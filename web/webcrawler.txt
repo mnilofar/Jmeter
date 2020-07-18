@@ -1,0 +1,3 @@
+Jmeter Tips and Trick: Simple web crawler 
+
+A simple regular expression extraction (<a[^>]* href="([^"]*)") and for each controler can do this trick... See below 
