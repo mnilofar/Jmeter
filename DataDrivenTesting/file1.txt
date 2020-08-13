@@ -1,0 +1,3 @@
+_token: ${token}
+search_term: test
+search_type: keyword
